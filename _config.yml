@@ -1,0 +1,14 @@
+layout_spectrum: 0.3665833624545485
+typography_spectrum: 0.6218071528710425
+color:
+  brandStrength: 0.07650725753046572
+  lightness: 0.32741315732710063
+  saturation: 0.18435442144982517
+  rhythmicContrast: 0.7660717379767448
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: studio
